@@ -5,6 +5,8 @@ hello git
 
 toto je branch trial
 
+master
+
 hello
 
 
